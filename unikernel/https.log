@@ -1,0 +1,130 @@
+2019-05-06 03:12:56 +00:00: INF [tcpip-stack-socket] Manager: connect
+2019-05-06 03:12:56 +00:00: INF [tcpip-stack-socket] Manager: configuring
+2019-05-06 03:12:56 +00:00: INF [https] listening on 4433/TCP
+2019-05-06 03:12:56 +00:00: INF [http] listening on 8080/TCP
+2019-05-06 03:13:11 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 03:13:15 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 03:13:15 +00:00: INF [https] [1] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/.
+2019-05-06 03:13:15 +00:00: INF [https] [1] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/css/main.584f321a.chunk.css.
+2019-05-06 03:13:15 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 03:13:15 +00:00: INF [https] [1] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/2.b41502e9.chunk.js.
+2019-05-06 03:13:15 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 03:13:15 +00:00: INF [https] [2] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/main.28647029.chunk.js.
+2019-05-06 03:13:15 +00:00: INF [https] [2] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/media/logo.5d5d9eef.svg.
+2019-05-06 03:13:15 +00:00: INF [https] [2] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/favicon.ico.
+2019-05-06 03:18:56 +00:00: INF [https] [1] closing
+2019-05-06 03:18:56 +00:00: INF [https] [2] closing
+2019-05-06 03:38:11 +00:00: INF [https] [3] serving //54.196.69.214:8080/.
+2019-05-06 03:38:11 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 03:38:17 +00:00: INF [https] [3] closing
+2019-05-06 03:55:24 +00:00: INF [https] [4] serving //54.196.69.214:8080/.
+2019-05-06 03:55:24 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 03:55:29 +00:00: INF [https] [4] closing
+2019-05-06 05:12:14 +00:00: INF [https] [5] serving //54.196.69.214/.
+2019-05-06 05:12:14 +00:00: INF [http] [//54.196.69.214/] -> [https://54.196.69.214:4433/]
+2019-05-06 05:12:14 +00:00: INF [https] [5] closing
+2019-05-06 05:28:56 +00:00: INF [https] [6] serving //54.196.69.214:8080/.
+2019-05-06 05:28:56 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 05:29:02 +00:00: INF [https] [6] closing
+2019-05-06 05:49:04 +00:00: INF [https] [7] serving //54.196.69.214:8080/.
+2019-05-06 05:49:04 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 05:49:09 +00:00: INF [https] [7] closing
+2019-05-06 05:57:44 +00:00: INF [https] [9] serving //54.196.69.214:8080/.
+2019-05-06 05:57:44 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 05:57:44 +00:00: INF [https] [10] serving //54.196.69.214:4433/.
+2019-05-06 05:57:44 +00:00: INF [https] [10] closing
+2019-05-06 05:58:00 +00:00: INF [https] [8] closing
+2019-05-06 06:23:18 +00:00: INF [https] [11] serving //54.196.69.214:8080/.
+2019-05-06 06:23:18 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 06:23:23 +00:00: INF [https] [11] closing
+2019-05-06 06:27:02 +00:00: INF [https] [12] serving //54.196.69.214:8080/.
+2019-05-06 06:27:02 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 06:27:08 +00:00: INF [https] [12] closing
+2019-05-06 06:35:25 +00:00: INF [https] [13] closing
+2019-05-06 06:35:25 +00:00: WRN [tcpip-stack-socket] error (Failure "Flow error: Unix.Unix_error(Unix.ECONNRESET, \"read\", \"\")") in callback
+2019-05-06 07:04:34 +00:00: INF [https] [14] serving //54.196.69.214:8080/.
+2019-05-06 07:04:34 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 07:04:40 +00:00: INF [https] [14] closing
+2019-05-06 07:35:21 +00:00: INF [https] [15] serving //54.196.69.214:8080/.
+2019-05-06 07:35:21 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 07:35:22 +00:00: INF [https] [16] serving //54.196.69.214:4433/.
+2019-05-06 07:35:31 +00:00: INF [https] [15] closing
+2019-05-06 07:35:32 +00:00: INF [https] [16] closing
+2019-05-06 08:26:05 +00:00: INF [https] [18] serving //54.196.69.214:8080/.
+2019-05-06 08:26:05 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 08:26:05 +00:00: INF [https] [19] serving //54.196.69.214:4433/.
+2019-05-06 08:26:05 +00:00: INF [https] [19] closing
+2019-05-06 08:26:53 +00:00: INF [https] [17] closing
+2019-05-06 08:38:24 +00:00: INF [https] [20] serving /.
+2019-05-06 08:38:24 +00:00: INF [http] [/] -> [https://:4433/]
+2019-05-06 08:38:25 +00:00: INF [https] [20] closing
+2019-05-06 10:37:15 +00:00: INF [https] [21] serving //54.196.69.214:8080/.
+2019-05-06 10:37:15 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 10:37:21 +00:00: INF [https] [21] closing
+2019-05-06 13:25:36 +00:00: INF [https] [23] serving //54.196.69.214:8080/.
+2019-05-06 13:25:36 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 13:25:36 +00:00: INF [https] [24] serving //54.196.69.214:4433/.
+2019-05-06 13:25:36 +00:00: INF [https] [24] closing
+2019-05-06 13:25:40 +00:00: INF [https] [22] closing
+2019-05-06 13:40:34 +00:00: INF [https] [23] closing
+2019-05-06 14:24:29 +00:00: INF [https] [25] serving //54.196.69.214:8080/.
+2019-05-06 14:24:29 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 14:24:34 +00:00: INF [https] [25] closing
+2019-05-06 14:25:43 +00:00: INF [https] [26] serving //54.196.69.214:8080/.
+2019-05-06 14:25:43 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 14:25:49 +00:00: INF [https] [26] closing
+2019-05-06 15:31:37 +00:00: INF [https] [27] serving //54.196.69.214:8080/.
+2019-05-06 15:31:37 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 15:31:43 +00:00: INF [https] [27] closing
+2019-05-06 15:36:06 +00:00: INF [https] [28] serving //127.0.0.1/tmUnblock.cgi.
+2019-05-06 15:36:06 +00:00: INF [http] [//127.0.0.1/tmUnblock.cgi] -> [https://127.0.0.1:4433/tmUnblock.cgi]
+2019-05-06 15:36:06 +00:00: ERR [cohttp.lwt.server] invalid input Malformed request header: I=1 while handling client
+2019-05-06 15:36:06 +00:00: INF [https] [28] closing
+2019-05-06 15:36:06 +00:00: INF [https] [29] closing
+2019-05-06 16:46:36 +00:00: INF [https] [30] serving //54.196.69.214:8080/.
+2019-05-06 16:46:36 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 16:46:42 +00:00: INF [https] [30] closing
+2019-05-06 17:46:35 +00:00: INF [https] [31] serving //54.196.69.214:8080/.
+2019-05-06 17:46:35 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 17:46:41 +00:00: INF [https] [31] closing
+2019-05-06 17:58:29 +00:00: INF [https] [32] serving //54.196.69.214:8080/.
+2019-05-06 17:58:29 +00:00: INF [http] [//54.196.69.214:8080/] -> [https://54.196.69.214:4433/]
+2019-05-06 17:58:37 +00:00: INF [https] [32] closing
+2019-05-06 18:32:07 +00:00: INF [https] [33] serving /.
+2019-05-06 18:32:07 +00:00: INF [http] [/] -> [https://:4433/]
+2019-05-06 18:32:07 +00:00: INF [https] [33] closing
+2019-05-06 19:30:07 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 19:30:07 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/.
+2019-05-06 19:30:07 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/css/main.584f321a.chunk.css.
+2019-05-06 19:30:07 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 19:30:07 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 19:30:07 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/2.b41502e9.chunk.js.
+2019-05-06 19:30:07 +00:00: INF [https] [35] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/main.28647029.chunk.js.
+2019-05-06 19:30:07 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/media/logo.5d5d9eef.svg.
+2019-05-06 19:30:52 +00:00: INF [https] [36] closing
+2019-05-06 19:31:08 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/.
+2019-05-06 19:31:08 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/css/main.584f321a.chunk.css.
+2019-05-06 19:31:08 +00:00: INF [https] [35] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/2.b41502e9.chunk.js.
+2019-05-06 19:31:08 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 19:31:08 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/main.28647029.chunk.js.
+2019-05-06 19:31:08 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/media/logo.5d5d9eef.svg.
+2019-05-06 19:31:10 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/.
+2019-05-06 19:31:10 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/css/main.584f321a.chunk.css.
+2019-05-06 19:31:10 +00:00: INF [https] [35] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/2.b41502e9.chunk.js.
+2019-05-06 19:31:10 +00:00: WRN [tcpip-stack-socket] error (Failure "listen: CERTIFICATE_UNKNOWN") in callback
+2019-05-06 19:31:10 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/main.28647029.chunk.js.
+2019-05-06 19:31:10 +00:00: INF [https] [35] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/media/logo.5d5d9eef.svg.
+2019-05-06 19:31:10 +00:00: INF [https] [35] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/favicon.ico.
+2019-05-06 19:31:14 +00:00: ERR [cohttp.lwt.server] invalid input Malformed request header:   ¸2 while handling client
+2019-05-06 19:31:14 +00:00: INF [https] [38] closing
+2019-05-06 19:31:14 +00:00: ERR [cohttp.lwt.server] invalid input Malformed request header:  „  ﬂ,æv”;IŒ,∂;PÎhxb≤*ÍYÆ»,tBn#¡ó;  ™™¿+¿/¿,¿0Ã©Ã®¿¿ ú ù / 5  while handling client
+2019-05-06 19:31:14 +00:00: INF [https] [39] closing
+2019-05-06 19:31:15 +00:00: ERR [cohttp.lwt.server] invalid input Malformed request HTTP version: °9ã‘≈∫hb«ı‚í∂ûT…Ì◊0^jl0ï4ù~õ "˙˙¿+¿/¿,¿0Ã©Ã®¿¿ ú ù / 5  while handling client
+2019-05-06 19:31:15 +00:00: INF [https] [40] closing
+2019-05-06 19:31:15 +00:00: ERR [cohttp.lwt.server] invalid input Malformed request header:  „  ﬂÄ‘ù¢E.`ªô,U»£b§∂» ¿-‡6˘kÙ"bç◊{  ÍÍ¿+¿/¿,¿0Ã©Ã®¿¿ ú ù / 5  while handling client
+2019-05-06 19:31:15 +00:00: INF [https] [41] closing
+2019-05-06 19:31:18 +00:00: INF [https] [35] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/.
+2019-05-06 19:31:18 +00:00: INF [https] [35] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/css/main.584f321a.chunk.css.
+2019-05-06 19:31:18 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/2.b41502e9.chunk.js.
+2019-05-06 19:31:18 +00:00: INF [https] [37] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/js/main.28647029.chunk.js.
+2019-05-06 19:31:18 +00:00: INF [https] [34] serving //ec2-54-196-69-214.compute-1.amazonaws.com:4433/static/media/logo.5d5d9eef.svg.
