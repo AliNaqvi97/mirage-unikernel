@@ -1,0 +1,1 @@
+static1.mli: Lwt Mirage_kv_lwt
