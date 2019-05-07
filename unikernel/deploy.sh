@@ -1,0 +1,7 @@
+build="cd ~/mirage-unikernel/website  && npm run --silent build"
+mirage_config="cd ~/mirage-unikernel/unikernel && mirage configure -t unix --net=socket --http=8080 --https=4433"
+kill_prev="kill $(ps -ef | grep https | grep -v grep | awk '{print $2}')"
+deploy="~/mirage-unikernel/unikernel/https > ~/mirage-unikernel/unikernel/https.log 2>&1 &"
+message="echo ; echo 'Deployed on port 8080 (HTTP) and 4433 (HTTPS)!'"
+eval  "$build; $mirage_config; make; $kill_prev; $deploy"
+eval "$message"

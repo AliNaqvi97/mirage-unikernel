@@ -2,7 +2,7 @@ open Mirage
 
 let stack = generic_stackv4 default_network
 let data_key = Key.(value @@ kv_ro ~group:"data" ())
-let data = generic_kv_ro ~key:data_key "site"
+let data = generic_kv_ro ~key:data_key "../website/build"
 (* set ~tls to false to get a plain-http server *)
 let https_srv = http_server @@ conduit_direct ~tls:true stack
 
